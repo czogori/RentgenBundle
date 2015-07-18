@@ -1,0 +1,23 @@
+{
+    "name": "czogori/rentgen-bundle",
+    "description": "Symfony bundle for Rentgen",
+    "keywords": [ "database", "postgresql" ],
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "require": {
+        "php": ">=5.4",
+        "czogori/rentgen": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Arek Jaskólski",
+            "email": "arek.jaskolski@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Czogori\\RentgenBundle\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
