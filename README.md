@@ -1,2 +1,2 @@
-DamiBundle
+RentgenBundle
 ==========
