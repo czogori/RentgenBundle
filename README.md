@@ -1,3 +1,3 @@
-RentgenBundle[![Latest Stable Version](https://poser.pugx.org/czogori/rentgen-bundle/v/stable)](https://packagist.org/packages/czogori/rentgen-bundle) [![Total Downloads](https://poser.pugx.org/czogori/rentgen-bundle/downloads)](https://packagist.org/packages/czogori/rentgen-bundle) [![Latest Unstable Version](https://poser.pugx.org/czogori/rentgen-bundle/v/unstable)](https://packagist.org/packages/czogori/rentgen-bundle) [![License](https://poser.pugx.org/czogori/rentgen-bundle/license)](https://packagist.org/packages/czogori/rentgen-bundle)
+RentgenBundle[![Latest Stable Version](https://poser.pugx.org/czogori/rentgen-bundle/v/stable)](https://packagist.org/packages/czogori/rentgen-bundle) [![License](https://poser.pugx.org/czogori/rentgen-bundle/license)](https://packagist.org/packages/czogori/rentgen-bundle)
 ==========
 Symfony bundle for [Rentgen](https://github.com/czogori/rentgen).
